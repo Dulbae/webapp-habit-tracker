@@ -1,6 +1,5 @@
-# init.Habits — Fullstack Android + Web
+# init.Habits 
 
-A terminal-inspired habit tracker with one frontend codebase for Web and Android.
 
 ## Stack
 
