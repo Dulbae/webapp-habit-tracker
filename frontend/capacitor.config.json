@@ -1,0 +1,8 @@
+{
+  "appId": "com.inithabits.app",
+  "appName": "init.Habits",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  }
+}

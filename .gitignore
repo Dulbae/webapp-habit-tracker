@@ -1,0 +1,8 @@
+
+node_modules/
+frontend/dist/
+frontend/android/
+backend/__pycache__/
+*.pyc
+postgres_data/
+.env
